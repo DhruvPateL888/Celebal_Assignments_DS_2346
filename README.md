@@ -1,1 +1,3 @@
 # Celebal_Assignments_DS_2346
+In this repository there are assignment in python language which can be used as reference.
+The main purpose of this repo is to perform the task assigned to me in the internship by Celebal Technologies...
