@@ -104,7 +104,7 @@ df['Product_Category_3']=df['Product_Category_3'].fillna(df['Product_Category_3'
 
 df.head()
 
-df.shape()
+df.shape
 
 
 df['Stay_In_Current_City_Years'].unique()
